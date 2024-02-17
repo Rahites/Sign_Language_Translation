@@ -1,8 +1,9 @@
-## ***실시간 수어 번역 인식 모듈생성 (with. MediaPipe, LSTM)***
-***
+# 실시간 수어 번역 인식 모듈생성 (with. MediaPipe, LSTM)
+
 ### Team Project
 
-#### Teaming   최준용, 이태범, 서동혁 ***(in Kookmin_University)***
+#### Teaming 최준용, 이태범, 서동혁 ***(in Kookmin_University)***
+#### 프로젝트 소개 : https://rahites.tistory.com/128
 
 ***
 
@@ -22,7 +23,7 @@
 
 ***
 
-### ***데이터 수집***
+### 데이터 수집
 
 - 31개의 자음, 모음에 대한 팀원 3명의 학습영상 촬영
 
@@ -32,7 +33,7 @@
 
 ***
 
-### ***데이터 전처리***
+### 데이터 전처리
 
 ![hand_landmarks](https://user-images.githubusercontent.com/90700892/209419270-aad3fcde-48b7-40cf-b2f6-a38edeee1e89.png)
 
@@ -44,7 +45,7 @@
 
 ***
 
-### ***Pipeline***
+### Pipeline
 
 - making_video.py
     - 원하는 자,모음을 설정해 동영상을 생성합니다. (openCV 활용)
@@ -63,7 +64,7 @@
 
 ***
 
-### ***시연***
+### 시연
 
 #### Using webcam
 
